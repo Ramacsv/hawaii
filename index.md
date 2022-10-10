@@ -16,27 +16,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 
-```
 
-```ruby
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -47,21 +29,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-
-### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
