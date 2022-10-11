@@ -13,9 +13,9 @@
 
   <body>
 
-    <!-- HEADER -->
+    <!-- HEADER  <header class="inner"> -->
     <div id="header_wrap" class="outer">
-        <header class="inner">
+        <header>
           {% if site.github.is_project_page %}
       <!--       <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a> -->
           {% endif %}
@@ -32,9 +32,9 @@
         </header>
     </div>
 
-    <!-- MAIN CONTENT -->
+    <!-- MAIN CONTENT <section id="main_content" class="inner">-->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+      <section id="main_content">
         {{ content }}
       </section>
     </div>
