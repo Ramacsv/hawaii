@@ -48,9 +48,9 @@ body {
   color:#373737;
  background: #f7fe0a;
   background:  url("../images/IMG_3644.png")    ;
-  background-repeat: repeat;
+//  background-repeat: repeat;
 //  background-image: url(../images/IMG_3644.svg);
-//  background-size: cover;
+  background-size: cover;
   //IMG_3644.svg
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -317,14 +317,15 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+ // color: #fff;
+  color: #0F79D0;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
-  color: #fff;
+  color: #0F79D0;
   font-size: 24px;
   font-weight: 300;
   background: none;
