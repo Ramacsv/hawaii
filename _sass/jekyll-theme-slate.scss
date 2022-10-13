@@ -316,7 +316,7 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #ffffff, #329bf0);
   background: -o-linear-gradient(top, #ffffff, #329bf0);
   background: linear-gradient(to top, #ffffff, #329bf0);
-  z-index: -1;
+  z-index: auto;
 }
 
 #header_wrap .inner {
