@@ -326,9 +326,9 @@ Full-Width Styles
 //  background: linear-gradient(to top, #ffffff, #329bf0);
   z-index: auto;
 }
-
-#header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+//#header_wrap .inner {
+#header_wrap.inner {
+  padding: 10px 10px 30px 10px;
 }
 
 #project_title {
