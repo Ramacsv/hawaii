@@ -14,17 +14,12 @@ _He found an island like the cloud island on the map called Hawaii._
 _He took his SonicFlyer, (you might know this from the previous story)_
 
 <html>
-<style>
-a:link {
-  color: red;
-  background-color: transparent; 
-}
-</style>
- <body>  
+  <body  link="#ff0000">  
 <a href="https://ramacsv.github.io/SuitecaseGarden/">SonicFlyer Info</a>
   </body>
- </html>
- 
+  
+  </html>
+
  **[SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/),**
 _and put it in the fly mode._
 
