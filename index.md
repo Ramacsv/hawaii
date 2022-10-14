@@ -6,13 +6,13 @@
 
 ## Welcome to my page
 
-Text can be **bold**, _italic_, 
+
 
 _Suitecase I lives in the cloud island in the sky._
 
 _He found an island like the cloud island on the map called Hawaii._
 
-_He took his SonicFlyer, (you might know this from the previous story), and put it in the fly mode._
+_He took his SonicFlyer, (you might know this from the previous story)[SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/), and put it in the fly mode._
 
 _He had to travel fast to reach before sunset._
 
