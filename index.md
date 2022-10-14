@@ -2,11 +2,10 @@
 
 ---
 
+
 # This is SuiteCase 
 
 ## Welcome to my page
-
-
 
 _Suitecase I lives in the cloud island in the sky._
 
@@ -14,8 +13,9 @@ _He found an island like the cloud island on the map called Hawaii._
 
 _He took his SonicFlyer, (you might know this from the previous story)_
 
- 
-<span style="color:red;"> [SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/)</span>,
+<a href="https://ramacsv.github.io/SuitecaseGarden/" style="color: red; "></a> 
+
+ [SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/),
 _and put it in the fly mode._
 
 _He had to travel fast to reach before sunset._
@@ -37,8 +37,6 @@ _It has Hydrogen and some secret mixture._
 _This fuel makes it go long distance faster with less fuel and environment friendly._
 
 _The stops on the bridge generate this fuel from sea water._
-
-_
 
 _When he reached the island, he found out it is called Oahu._ 
 
