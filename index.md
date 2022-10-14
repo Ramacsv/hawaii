@@ -14,7 +14,8 @@ _He found an island like the cloud island on the map called Hawaii._
 
 _He took his SonicFlyer, (you might know this from the previous story)_
 
-<span style="color:red">*[SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/)*</span>, 
+ 
+<span style="color:red;"> [SonicFlyer Info](https://ramacsv.github.io/SuitecaseGarden/)</span>,
 _and put it in the fly mode._
 
 _He had to travel fast to reach before sunset._
