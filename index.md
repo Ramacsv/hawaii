@@ -67,3 +67,27 @@ _After that the dolphins loaded coconut properly._
 _He picked up lot of plumerias and made lei's and put it on dolphins to thank them._
 
 _It looked very nice on them._
+
+### Next 
+
+_While walking along the beach he found some sea shells._
+
+_He collected and thinking to do something with it._
+
+_He got an idea. Using sand he made large medium and big balls using some glue he had_
+
+_to hold the sand together._
+
+_Stacked the balls and glued all around with the sea shells and decorated_
+
+_He had sent a message to his friedn cookie monster to send some carrots._
+
+_Cookie monster put carrots inside a big inflatable ball and dropped of from his helicopter._
+
+_Suitecase took the ball, deflated and took those carrots._
+
+_Now the n part is he stuck the carrots to the sand ball with shells_      
+
+_ad turned it into a sand shellman._
+
+
