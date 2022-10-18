@@ -68,7 +68,7 @@ _He picked up lot of plumerias and made lei's and put it on dolphins to thank th
 
 _It looked very nice on them._
 
-### Next 
+### Next part
 
 _While walking along the beach he found some sea shells._
 
@@ -86,8 +86,16 @@ _Cookie monster put carrots inside a big inflatable ball and dropped of from his
 
 _Suitecase took the ball, deflated and took those carrots._
 
-_Now the n part is he stuck the carrots to the sand ball with shells_      
+_Now the fun part is he stuck the carrots to the sand ball with shells_      
 
-_ad turned it into a sand shellman._
+_and turned it into a sand shellman._
+
+### Next part.
+
+_It started getting dark. While walking along he srubled upon a huge telescope._
+
+_Someone was looking through it. He was curious to find out what they wwre doing._
+
+_He also looked through and found big moon, jupitor, saturn with rings._
 
 
