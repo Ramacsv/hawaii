@@ -80,7 +80,7 @@ _to hold the sand together._
 
 _Stacked the balls and glued all around with the sea shells and decorated_
 
-_He had sent a message to his friedn cookie monster to send some carrots._
+_He had sent a message to his friend cookie monster to send some carrots._
 
 _Cookie monster put carrots inside a big inflatable ball and dropped of from his helicopter._
 
@@ -97,5 +97,17 @@ _It started getting dark. While walking along he srubled upon a huge telescope._
 _Someone was looking through it. He was curious to find out what they wwre doing._
 
 _He also looked through and found big moon, jupitor, saturn with rings._
+
+_He also saw Vega star and took some pictures._
+
+_It was getting really late, he then loaded his **SonicFlyer** with all he wanted to bring back._
+
+_Turned on flying mode and sarted his flight back. Stopped on the bridge few times to eat and rest and recharge his SonicFlyer._
+
+### This is for now.
+
+*I will continue later in my next episode._
+
+### Thank you for visiting my page.
 
 
