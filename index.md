@@ -2,12 +2,6 @@
 
 ---
 
-<html>
-<body  LINK="#ff0000" BGCOLOR="#ffffff">  
-<a href="https://ramacsv.github.io/SuitecaseGarden/">SonicFlyer Info</a>
-  </body>
- </html>
-
 # This is SuiteCase 
 
 ## Welcome to my page
