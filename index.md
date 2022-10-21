@@ -67,7 +67,7 @@ _He picked up lot of plumerias and made lei's and put it on dolphins to thank th
 
 _It looked very nice on them._
 
- ## Next part
+##             Next part
 
 _While walking along the beach he found some sea shells._
 
@@ -89,7 +89,7 @@ _Now the fun part is he stuck the carrots to the sand ball with shells_
 
 _and turned it into a sand shellman._
 
- ## Next part
+##           Next part
 
 _It started getting dark. While walking along he srubled upon a huge telescope._
 
