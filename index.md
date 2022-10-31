@@ -52,6 +52,9 @@ _He went up the mountain and found a puddle started swimming and reached a cocon
 
 _He went up the tree picked a coconut, opened it and drank the coconut water and ate the coconut._
 
+![alt Coconut](assets/images/Coconut.svg "Coconuts")
+<hr style="border-top:5px solid purple">
+
 _When he looked down he saw a dolphins dancing in  the ocean._
 
 _He made friends with them and played in the waters._
