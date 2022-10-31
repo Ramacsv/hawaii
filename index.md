@@ -117,6 +117,7 @@ _He also looked through and found big moon, jupitor, saturn with rings._
 <hr style="border-top:5px solid red">
 
 _He also saw Vega star and took some pictures._
+![alt Starts](assets/images/startsIMG_3767.svg "Stars")
 
 ![alt Telescope](assets/images/telescopeIMG_3766.svg "Telescope")
 <b>Drwaing by ramacsv, SuiteCase Friend</b>
