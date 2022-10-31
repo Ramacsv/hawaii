@@ -38,6 +38,7 @@ _This fuel makes it go long distance faster with less fuel and environment frien
 _The stops on the bridge generate this fuel from sea water._
 
 ![alt Bridge](assets/images/bridgeIMG_3777.svg "Satelite controlled bridge")
+
 <b>Drwaing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid purple">
 
@@ -111,7 +112,15 @@ _Someone was looking through it. He was curious to find out what they were doing
 
 _He also looked through and found big moon, jupitor, saturn with rings._
 
+![alt Planets](assets/images/planetIMG_3768.svg "Planets")
+<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid red">
+
 _He also saw Vega star and took some pictures._
+
+![alt Telescope](assets/images/telescopeIMG_3766.svg "Telescope")
+<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid yellow">
 
 _It was getting really late, he then loaded his **SonicFlyer** with all he wanted to bring back._
 
