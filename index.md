@@ -73,6 +73,10 @@ _He picked up lot of plumerias and made lei's and put it on dolphins to thank th
 
 _It looked very nice on them._
 
+![alt dolphin](assets/images/dolphinIMG_3776.svg "Dolphins & Plumeria")
+<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid green">
+
 ### ================  Next part
 
 _While walking along the beach he found some sea shells._
