@@ -19,9 +19,11 @@ _He had to travel fast to reach before sunset._
 
 _One special thing is he  built a special bridge to Hawaii from San Francisco._
 
-_This bridge is flexible that the connecting points can be changed._
+_This bridge is flexible and expands so that the connecting points can be changed._
 
 _On the bridge he has built a lot of places where he can stop to get food and fuel._
+
+_It is satelite controlled_
 
 _It has landing pad for his SonicFlyer and drive in area and ship docking station also._
 
@@ -34,6 +36,10 @@ _It has Hydrogen and some secret mixture._
 _This fuel makes it go long distance faster with less fuel and environment friendly._
 
 _The stops on the bridge generate this fuel from sea water._
+
+![alt Bridge](assets/images/bridgeIMG_3777.svg "Satelite controlled bridge")
+<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid purple">
 
 _When he reached the island, he found out it is called Oahu._ 
 
@@ -88,6 +94,10 @@ _Suitecase took the ball, deflated and took those carrots._
 _Now the fun part is he stuck the carrots to the sand ball with shells_      
 
 _and turned it into a sand shellman._
+
+![alt sandman](assets/images/sandman.svg "sand shellman")
+<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid red">
 
 ### ================  Next part
 
