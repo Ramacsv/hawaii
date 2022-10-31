@@ -21,9 +21,9 @@ _One special thing is he  built a special bridge to Hawaii from San Francisco._
 
 _This bridge is flexible and expands so that the connecting points can be changed._
 
-_On the bridge he has built a lot of places where he can stop to get food and fuel._
+_It is suspened by antigravity controlled by satelite_
 
-_It is satelite controlled_
+_On the bridge he has built a lot of places where he can stop to get food and fuel._
 
 _It has landing pad for his SonicFlyer and drive in area and ship docking station also._
 
