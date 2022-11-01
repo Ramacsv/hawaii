@@ -39,7 +39,7 @@ _The stops on the bridge generate this fuel from sea water._
 
 ![alt Bridge](assets/images/bridgeIMG_3777.svg "Satelite controlled bridge")
 
-<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid purple">
 
 _When he reached the island, he found out it is called Oahu._ 
@@ -78,7 +78,7 @@ _He picked up lot of plumerias and made lei's and put it on dolphins to thank th
 _It looked very nice on them._
 
 ![alt dolphin](assets/images/dolphinIMG_3776.svg "Dolphins & Plumeria")
-<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid green">
 
 ### ================  Next part
@@ -104,7 +104,7 @@ _Now the fun part is he stuck the carrots to the sand ball with shells_
 _and turned it into a sand shellman._
 
 ![alt sandman](assets/images/sandman.svg "sand shellman")
-<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid red">
 
 ### ================  Next part
@@ -123,7 +123,7 @@ _He also saw Vega star and took some pictures._
 ![alt Starts](assets/images/startsIMG_3767.svg "Stars")
 
 ![alt Telescope](assets/images/telescopeIMG_3766.svg "Telescope")
-<b>Drwaing by ramacsv, SuiteCase Friend</b>
+<b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid yellow">
 
 _It was getting really late, he then loaded his **SonicFlyer** with all he wanted to bring back._
