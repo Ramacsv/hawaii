@@ -3,11 +3,13 @@
 ---
 
 # This is SuiteCase 
-![alt SuiteCase] (assets/images/suitecase.png "I am SuiteCase")
+![alt SuiteCase](assets/images/suitecase.png "I am SuiteCase")
 
+<b>ramacsv,My Friend SuiteCase </b>
+<hr style="border-top:5px solid purple">
 ## Welcome to my page
 
-_Suitecase I lives in the cloud island in the sky._
+_Suitecase lives in the cloud island in the sky._
 
 _He found an island like the cloud island on the map called Hawaii._
 
