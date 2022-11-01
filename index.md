@@ -3,6 +3,7 @@
 ---
 
 # This is SuiteCase 
+![alt SuiteCase] (assets/images/suitecase.png "I am SuiteCase")
 
 ## Welcome to my page
 
