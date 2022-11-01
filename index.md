@@ -128,8 +128,8 @@ _He also saw Vega star and took some pictures._
 
 _It was getting really late, he then loaded his **SonicFlyer** with all he wanted to bring back._
 
-_Turned on flying mode and sarted his flight back. Stopped on the bridge few times to eat and rest and recharge his SonicFlyer._
-
+_Turned on flying mode and sarted his flight back. Stopped on the bridge few times to eat and rest and recharge his SonicFlyer and went home_
+the end_
 ## **This is for now.**
 
 *I will continue later in my next episode.*
